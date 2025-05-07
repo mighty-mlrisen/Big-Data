@@ -1,0 +1,26 @@
+{
+    "id": "020342CE",
+    "path": "~/big_data/lab3/L3.R",
+    "project_path": "L3.R",
+    "type": "r_source",
+    "hash": "770153989",
+    "contents": "",
+    "dirty": false,
+    "created": 1746502475160.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "224,0",
+        "scrollLine": "196"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1746529818,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1746529818318,
+    "read_only": false,
+    "read_only_alternatives": []
+}
